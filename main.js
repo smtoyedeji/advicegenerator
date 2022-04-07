@@ -13,4 +13,4 @@ window.setInterval(function() {
         advice.textContent = `"${data.slip.advice}"`
         heading.textContent = `Advice #${data.slip.id}`
     })
-}, 5000)
+}, 10000)
