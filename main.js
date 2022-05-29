@@ -9,7 +9,6 @@ window.setInterval(function() {
     fetch("https://api.adviceslip.com/advice")
     .then(res => res.json())
     .then(data => {
-        console.log(data)
         //inject data into html elements
         advice.textContent = `"${data.slip.advice}"`
         heading.textContent = `Advice #${data.slip.id}`
