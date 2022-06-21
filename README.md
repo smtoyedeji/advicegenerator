@@ -25,7 +25,7 @@ The challenge is to build a Random Advice Generator
 ### Links
 
 - Solution URL: [Github repository link](https://github.com/smtoyedeji/advicegenerator.github.io.git)
-- Live Site URL: [Live site URL](https://smtoyedeji.github.io/advicegenerator.github.io/)
+- Live Site URL: [Live site URL](https://smtoyedeji.github.io/advicegenerator/)
 
 
 
